@@ -3,7 +3,6 @@
 *{
     box-sizing: border-box;
     margin: 0 auto;
-    border: red 1px dashed;
 }
 body{
     height: 1000px;
