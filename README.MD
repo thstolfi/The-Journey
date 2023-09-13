@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="The Journey" src="assets/thejourney.jpg" width="100%">
+  <img alt="The Journey" src="assets/thejourney.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

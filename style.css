@@ -111,4 +111,12 @@ section button:hover{
 #bgsection img{
     width: 20%;
 }
-
+footer{
+    text-align: center;
+    background-color: #1b1d20;
+    color: #FFF9F4;
+    padding: 20px;
+}
+footer a{
+    color: #FFF9F4;
+}
